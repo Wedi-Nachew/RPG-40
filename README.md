@@ -1,2 +1,5 @@
 # RPG-40
-Hi this is a a mock repository for CSCI-40 github collabration course
+Test - Deleteme
+
+This is just a live demo between Kerney and Mencarelli, feel free to delete
+whenever you want.
